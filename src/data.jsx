@@ -4,27 +4,27 @@ import { FaBehance, FaFacebook, FaLinkedin, FaTwitter } from "react-icons/fa";
 export const links = [
   {
     id: 1,
-    url: "/",
+    url: "./",
     text: "home",
   },
   {
     id: 2,
-    url: "about",
+    url: "./about",
     text: "about",
   },
   {
     id: 3,
-    url: "projects",
+    url: "./projects",
     text: "projects",
   },
   {
     id: 4,
-    url: "contact",
+    url: "./contact",
     text: "contact",
   },
   {
     id: 5,
-    url: "profile",
+    url: "./profile",
     text: "profile",
   },
 ];
